@@ -1,2 +1,2 @@
 # kube-app
-Lab for K8 deployment of a web app
+Lab for K8 deployment of a web app using AWS infra
